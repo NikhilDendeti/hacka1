@@ -1,0 +1,437 @@
+
+{
+    "Word Scramble Master": {
+      "mild": {
+        "level1": [
+          {
+            "scrambled": "T N A T I O N T E",
+            "options": ["Attention", "Intention", "Taintone", "Notatien"],
+            "answer": "Attention"
+          },
+          {
+            "scrambled": "N T R A C I O N T E C N O",
+            "options": ["Concentration", "Conversation", "Contortion", "Connotation"],
+            "answer": "Concentration"
+          },
+          {
+            "scrambled": "T I O N I A G I N M A",
+            "options": ["Imagination", "Animation", "Migration", "Illumination"],
+            "answer": "Imagination"
+          },
+          {
+            "scrambled": "R E V E R A P E S C E N",
+            "options": ["Perseverance", "Perseveration", "Prevarication", "Perseverant"],
+            "answer": "Perseverance"
+          },
+          {
+            "scrambled": "T I O N D E T R A M I N E",
+            "options": ["Determination", "Detonation", "Determined", "Determinate"],
+            "answer": "Determination"
+          },
+          {
+            "scrambled": "T I V Y C R E A T I",
+            "options": ["Creativity", "Cretativity", "Recativity", "Activity"],
+            "answer": "Creativity"
+          },
+          {
+            "scrambled": "N I T O V A I N N O",
+            "options": ["Innovation", "Invention", "Invitation", "Novation"],
+            "answer": "Innovation"
+          },
+          {
+            "scrambled": "E L I R N E S C I E",
+            "options": ["Resilience", "Reliance", "Silence", "Relevance"],
+            "answer": "Resilience"
+          }
+        ],
+        "level2": [
+          {
+            "scrambled": "N O E P H R E S I M I C O N",
+            "options": ["Comprehension", "Competition", "Conception", "Compensation"],
+            "answer": "Comprehension"
+          },
+          {
+            "scrambled": "B S O T I A V O N E R",
+            "options": ["Observation", "Obsession", "Operation", "Obviation"],
+            "answer": "Observation"
+          },
+          {
+            "scrambled": "C T I O N R F E L E",
+            "options": ["Reflection", "Recollection", "Infection", "Inflection"],
+            "answer": "Reflection"
+          },
+          {
+            "scrambled": "S I A N A L Y S",
+            "options": ["Analysis", "Synthesis", "Anomaly", "Analyst"],
+            "answer": "Analysis"
+          },
+          {
+            "scrambled": "T R I N T E P A O I R T E N",
+            "options": ["Interpretation", "Interruption", "Integration", "Intimation"],
+            "answer": "Interpretation"
+          },
+          {
+            "scrambled": "V A T I E U L O N A",
+            "options": ["Evaluation", "Evolution", "Valuation", "Revelation"],
+            "answer": "Evaluation"
+          },
+          {
+            "scrambled": "N E Q U C O E S C N E",
+            "options": ["Consequence", "Consonance", "Convergence", "Convenience"],
+            "answer": "Consequence"
+          },
+          {
+            "scrambled": "T I O M A T V I N O",
+            "options": ["Motivation", "Migration", "Modulation", "Manipulation"],
+            "answer": "Motivation"
+          }
+        ],
+        "level3": [
+          {
+            "scrambled": "S O P H I L O P H Y",
+            "options": ["Philosophy", "Psychology", "Philanthropy", "Philosopher"],
+            "answer": "Philosophy"
+          },
+          {
+            "scrambled": "R A N S F O R M T I O N A T",
+            "options": ["Transformation", "Translocation", "Transmutation", "Translation"],
+            "answer": "Transformation"
+          },
+          {
+            "scrambled": "N I C O M M U T A C I O N",
+            "options": ["Communication", "Commutation", "Computation", "Connection"],
+            "answer": "Communication"
+          },
+          {
+            "scrambled": "N I Z O R A T I O G A N",
+            "options": ["Organization", "Ornamentation", "Orientation", "Integration"],
+            "answer": "Organization"
+          },
+          {
+            "scrambled": "N I S T R A D A M I T I O N",
+            "options": ["Administration", "Admonition", "Adjudication", "Admission"],
+            "answer": "Administration"
+          },
+          {
+            "scrambled": "C E P T I O N P E R",
+            "options": ["Perception", "Reception", "Conception", "Exception"],
+            "answer": "Perception"
+          },
+          {
+            "scrambled": "T I O N C L A L O R B A I",
+            "options": ["Collaboration", "Correlation", "Celebration", "Confrontation"],
+            "answer": "Collaboration"
+          },
+          {
+            "scrambled": "L I N T E G E N I C L E",
+            "options": ["Intelligence", "Integration", "Indulgence", "Interference"],
+            "answer": "Intelligence"
+          }
+        ]
+      },
+      "moderate": {
+        "level1": [
+          {
+            "word": "Focus",
+            "scrambled": "C O F U S",
+            "options": ["Focus", "Fucos", "Foucs", "Fucos"],
+            "answer": "Focus"
+          },
+          {
+            "word": "Brain",
+            "scrambled": "A R B I N",
+            "options": ["Brain", "Bairn", "Biran", "Barin"],
+            "answer": "Brain"
+          },
+          {
+            "word": "Memory",
+            "scrambled": "O M Y M E R",
+            "options": ["Memory", "Mermoy", "Emorry", "Meymor"],
+            "answer": "Memory"
+          },
+          {
+            "word": "Learn",
+            "scrambled": "A R L E N",
+            "options": ["Learn", "Leran", "Renal", "Realn"],
+            "answer": "Learn"
+          },
+          {
+            "word": "Read",
+            "scrambled": "E A D R",
+            "options": ["Read", "Dear", "Dare", "Erad"],
+            "answer": "Read"
+          },
+          {
+            "word": "Think",
+            "scrambled": "H I T N K",
+            "options": ["Think", "Thnik", "Kithn", "Hitnk"],
+            "answer": "Think"
+          },
+          {
+            "word": "Spell",
+            "scrambled": "L P E S L",
+            "options": ["Spell", "Spel", "Lpeps", "Pells"],
+            "answer": "Spell"
+          },
+          {
+            "word": "Word",
+            "scrambled": "O W R D",
+            "options": ["Word", "Wrod", "Drow", "Rowd"],
+            "answer": "Word"
+          }
+        ],
+        "level2": [
+          {
+            "word": "Puzzle",
+            "scrambled": "Z P U L Z E",
+            "options": ["Puzzle", "Puzzel", "Zuzzle", "Puzzel"],
+            "answer": "Puzzle"
+          },
+          {
+            "word": "Challenge",
+            "scrambled": "A L L E N C H G E",
+            "options": ["Challenge", "Challange", "Challonge", "Challege"],
+            "answer": "Challenge"
+          },
+          {
+            "word": "Reason",
+            "scrambled": "A N S O R E",
+            "options": ["Reason", "Resoan", "Arson", "Searon"],
+            "answer": "Reason"
+          },
+          {
+            "word": "Logic",
+            "scrambled": "G O I L C",
+            "options": ["Logic", "Loci", "Golic", "Cilog"],
+            "answer": "Logic"
+          },
+          {
+            "word": "Solve",
+            "scrambled": "V O S E L",
+            "options": ["Solve", "Loves", "Voles", "Slove"],
+            "answer": "Solve"
+          },
+          {
+            "word": "Answer",
+            "scrambled": "S W A N R E",
+            "options": ["Answer", "Swearn", "Wanser", "Swaner"],
+            "answer": "Answer"
+          },
+          {
+            "word": "Clue",
+            "scrambled": "L U C E",
+            "options": ["Clue", "Luce", "Lecu", "Celu"],
+            "answer": "Clue"
+          },
+          {
+            "word": "Riddle",
+            "scrambled": "D I L D R E",
+            "options": ["Riddle", "Dridle", "Ridled", "Idlder"],
+            "answer": "Riddle"
+          }
+        ],
+        "level3": [
+          {
+            "word": "Science",
+            "scrambled": "C I E S N C E",
+            "options": ["Science", "Scinece", "Sience", "Cineces"],
+            "answer": "Science"
+          },
+          {
+            "word": "Nature",
+            "scrambled": "T U R E N A",
+            "options": ["Nature", "Nurtue", "Natrue", "Turnea"],
+            "answer": "Nature"
+          },
+          {
+            "word": "Planet",
+            "scrambled": "L A P T N E",
+            "options": ["Planet", "Plante", "Pantle", "Planet"],
+            "answer": "Planet"
+          },
+          {
+            "word": "Animal",
+            "scrambled": "M A I L N A",
+            "options": ["Animal", "Anmial", "Aminal", "Animla"],
+            "answer": "Animal"
+          },
+          {
+            "word": "Energy",
+            "scrambled": "G Y N E E R",
+            "options": ["Energy", "Engery", "Nergy", "Ergney"],
+            "answer": "Energy"
+          },
+          {
+            "word": "Number",
+            "scrambled": "M U R B N E",
+            "options": ["Number", "Numebr", "Numbre", "Munber"],
+            "answer": "Number"
+          },
+          {
+            "word": "Letter",
+            "scrambled": "T E T L R E",
+            "options": ["Letter", "Lettre", "Letetr", "Telter"],
+            "answer": "Letter"
+          },
+          {
+            "word": "Sound",
+            "scrambled": "O U D S N",
+            "options": ["Sound", "Soudn", "Undos", "Donus"],
+            "answer": "Sound"
+          }
+        ]
+      },
+      "severe": {
+        "level1": [
+          {
+            "word": "Cat",
+            "scrambled": "T A C",
+            "options": ["Cat", "Act", "Tac", "Atc"],
+            "answer": "Cat"
+          },
+          {
+            "word": "Dog",
+            "scrambled": "O G D",
+            "options": ["Dog", "God", "Dgo", "Odg"],
+            "answer": "Dog"
+          },
+          {
+            "word": "Sun",
+            "scrambled": "N S U",
+            "options": ["Sun", "Uns", "Nus", "Snu"],
+            "answer": "Sun"
+          },
+          {
+            "word": "Hat",
+            "scrambled": "T H A",
+            "options": ["Hat", "Aht", "Tha", "Tah"],
+            "answer": "Hat"
+          },
+          {
+            "word": "Bat",
+            "scrambled": "A T B",
+            "options": ["Bat", "Tab", "Tba", "Abt"],
+            "answer": "Bat"
+          },
+          {
+            "word": "Cup",
+            "scrambled": "U C P",
+            "options": ["Cup", "Puc", "Cpu", "Ucp"],
+            "answer": "Cup"
+          },
+          {
+            "word": "Pig",
+            "scrambled": "I G P",
+            "options": ["Pig", "Gip", "Pgi", "Ipg"],
+            "answer": "Pig"
+          },
+          {
+            "word": "Box",
+            "scrambled": "X B O",
+            "options": ["Box", "Obx", "Xob", "Bxo"],
+            "answer": "Box"
+          }
+        ],
+        "level2": [
+          {
+            "word": "Bed",
+            "scrambled": "E D B",
+            "options": ["Bed", "Deb", "Bde", "Ebd"],
+            "answer": "Bed"
+          },
+          {
+            "word": "Car",
+            "scrambled": "R A C",
+            "options": ["Car", "Arc", "Cra", "Rac"],
+            "answer": "Car"
+          },
+          {
+            "word": "Pen",
+            "scrambled": "N P E",
+            "options": ["Pen", "Nep", "Epn", "Pne"],
+            "answer": "Pen"
+          },
+          {
+            "word": "Jar",
+            "scrambled": "R J A",
+            "options": ["Jar", "Raj", "Jra", "Arj"],
+            "answer": "Jar"
+          },
+          {
+            "word": "Map",
+            "scrambled": "A P M",
+            "options": ["Map", "Amp", "Pam", "Mpa"],
+            "answer": "Map"
+          },
+          {
+            "word": "Bus",
+            "scrambled": "S B U",
+            "options": ["Bus", "Sub", "Ubs", "Sbu"],
+            "answer": "Bus"
+          },
+          {
+            "word": "Fan",
+            "scrambled": "N A F",
+            "options": ["Fan", "Naf", "Fna", "Anf"],
+            "answer": "Fan"
+          },
+          {
+            "word": "Toy",
+            "scrambled": "Y O T",
+            "options": ["Toy", "Oty", "Yot", "Tyo"],
+            "answer": "Toy"
+          }
+        ],
+        "level3": [
+          {
+            "word": "Run",
+            "scrambled": "U N R",
+            "options": ["Run", "Nru", "Unr", "Rnu"],
+            "answer": "Run"
+          },
+          {
+            "word": "Sit",
+            "scrambled": "T I S",
+            "options": ["Sit", "Ist", "Tis", "Sti"],
+            "answer": "Sit"
+          },
+          {
+            "word": "Top",
+            "scrambled": "P T O",
+            "options": ["Top", "Opt", "Pot", "Tpo"],
+            "answer": "Top"
+          },
+          {
+            "word": "Rug",
+            "scrambled": "G U R",
+            "options": ["Rug", "Gur", "Urg", "Rgu"],
+            "answer": "Rug"
+          },
+          {
+            "word": "Red",
+            "scrambled": "D R E",
+            "options": ["Red", "Der", "Erd", "Rde"],
+            "answer": "Red"
+          },
+          {
+            "word": "Blue",
+            "scrambled": "L B U E",
+            "options": ["Blue", "Lube", "Bule", "Elub"],
+            "answer": "Blue"
+          },
+          {
+            "word": "Sky",
+            "scrambled": "K Y S",
+            "options": ["Sky", "Yks", "Ksy", "Syk"],
+            "answer": "Sky"
+          },
+          {
+            "word": "Egg",
+            "scrambled": "G G E",
+            "options": ["Egg", "Gge", "Eeg", "Geg"],
+            "answer": "Egg"
+          }
+        ]
+      }
+    }
+  }

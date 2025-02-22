@@ -1,0 +1,55 @@
+POST http://127.0.0.1:8000/signup 
+Content-Type: application/json
+
+{ "username": "adam", "password": "Pass1234!", "email": "adam@mail.com" }
+
+###
+
+POST http://127.0.0.1:8000/login 
+Content-Type: application/json
+
+{ "username": "adam", "password": "Pass1234!" }
+
+###
+
+GET http://127.0.0.1:8000/test_token 
+Content-Type: application/json
+Authorization: token xxx
+
+###
+
+POST http://127.0.0.1:8000/api/dyslexia_test/
+Content-Type: application/json
+Authorization: Bearer xxx
+
+Body: {
+    "word_confusion_errors": 3,
+    "reading_time": 120,
+    "letter_confusion_errors": 2
+}
+
+###
+GET http://127.0.0.1:8000/api/get_questions/
+Content-Type: application/json
+Authorization: Bearer xxx
+
+Body :{
+    "status": "success",
+    "question_set_id": 3,
+    "questions": [
+        {
+            "type": "word_confusion",
+            "question": "Choose the correct word:",
+            "options": ["Brake", "Break"],
+            "answer": "Brake"
+        },
+        {
+            "type": "reading_comprehension",
+            "passage": "The Earth revolves around the Sun.",
+            "question": "What does the Earth revolve around?",
+            "options": ["Moon", "Sun"],
+            "answer": "Sun"
+        }
+    ]
+}
+
